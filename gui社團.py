@@ -7,3 +7,4 @@ elif d<0:
     print('No real root')
 else:
     print("Two same roots x=int %d"%e)
+#ajjaja
